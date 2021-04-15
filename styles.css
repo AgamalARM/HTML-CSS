@@ -1,0 +1,15 @@
+h1{
+    text-transform: uppercase;
+    
+    text-align: center;
+    font-weight: 100;
+    /* text-size-adjust: 40px; */
+    letter-spacing: 20px;
+    font-size: 40px;
+    font-family: monospace;
+    text-decoration: plum underline wavy;
+}
+
+body{
+    background-color: rgb(41, 129, 230);
+}
